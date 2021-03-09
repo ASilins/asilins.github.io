@@ -110,7 +110,7 @@ let questions = [
     choice3: "varying",
     choice4: "various",
     answer: 4,
-  },
+  }
 ];
 
 const SCORE_POINTS = 1;
